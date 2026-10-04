@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: azamattyq-quqyq
+    runtime: static
+    repo: https://github.com/Sabokanms/El_okulyk.git
+    branch: main
+    buildCommand: "true"
+    staticPublishPath: .
+    envVars:
+      - key: SKIP_INSTALL_DEPS
+        value: "true"

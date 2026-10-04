@@ -1,0 +1,14 @@
+# Local editor settings and generated files
+.vscode/
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+~$*
+
+# Local practice unrelated to the website
+/practic.py
+
+# Retired portraits no longer used by the website
+/assets/authors/baimakhanova-aigerim.jpg
+/assets/authors/iskendirova-gulzipa.jpg
